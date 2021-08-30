@@ -1,10 +1,4 @@
-# Responsive-Website-using-HTML5-and-CSS3-
 
-It's responsive website.
-
-# Technologies
-* HTML5
-* CSS
  <!DOCTYPE html>
 <html lang="en">
 <head>
