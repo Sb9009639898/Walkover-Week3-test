@@ -27,9 +27,9 @@
 	<div class="box1">
 		<div class="box7"></div>
 		<div class="box8">
-			<img src="https://thumbs.dreamstime.com/b/bakery-bread-wood-background-closeup-variety-baked-food-wooden-table-high-resolution-119166489.jpg" width="80"; height="100">
+			
 		</div>
-		<div class="box9"><img src="https://thumbs.dreamstime.com/b/bakery-bread-wood-background-closeup-variety-baked-food-wooden-table-high-resolution-119166489.jpg" width="80"; height="100"></div>
+		
 		<div class="box0">
 			
 		</div>
