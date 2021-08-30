@@ -1,5 +1,5 @@
 
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="test.css">
 </head>
 <body>
-	<h1>Final Assessment - Shubham Chatutvedi</h1>
+	<h1>Final Assessment - Shubham Chatutvedi.</h1>
 	<div>
 	<div class="box1">
 		<div class="box2"></div>
