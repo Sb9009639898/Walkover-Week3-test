@@ -29,12 +29,11 @@
 		<div class="box8">
 			
 		</div>
-		
-		<div class="box0">
-			
-		</div>
+		<div class="box9"></div>
+		<div class="box0"></div>
 		<h3>Box 3</h3>
 	</div>
+	
 	</div>
 	<div class="footer">
 	<form class="form">
